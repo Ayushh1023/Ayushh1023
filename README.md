@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushh1023
 - 👀 I’m interested in learning about AI/ML and BLockchain technology
-- 🌱 I’m currently learning Java and Graphics in C++
+- 🌱 I’m currently learning Advanced Concepts in Java and C++
 - 📫 Ping me on Discord: Ad Astra#3510
 
 - 📜 Update:Just tried Competitive Coding..I'm lovin'it!!
