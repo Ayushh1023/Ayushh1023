@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushh1023
-- 👀 I’m interested in learning about AI/ML and BLockchain technology
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in learning about **everything** about how computers' majaestic capabilities can be used to achieve the impossible endeavours of humankind  
+- 🌱 I’m currently exploring BLockChain Technology
 - 📫 Ping me on Discord: Ad Astra#3510
 
 - 📜 Update: Doing LeetCode these days
