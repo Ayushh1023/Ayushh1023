@@ -8,4 +8,4 @@
 Ayushh1023/Ayushh1023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Ayushh1023's GitHub | Topics](https://stats.quine.sh/Ayushh1023/topics-over-time?theme=light)](https://quine.sh)
+
