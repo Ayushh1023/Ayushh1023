@@ -9,4 +9,3 @@ Ayushh1023/Ayushh1023 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Ayushh1023's GitHub | Stats](https://stats.quine.sh/Ayushh1023/github?theme=dark)](https://quine.sh) [![Ayushh1023's GitHub | Languages Over Time](https://stats.quine.sh/Ayushh1023/languages-over-time?theme=dark)](https://quine.sh)
