@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Ayushh1023
 - 👀 I’m interested in learning **everything** about how computers' majestic capabilities can be used to achieve the impossible endeavors of humankind  
-- 🌱 I’m currently exploring my future options
+- 🌱 I’m currently exploring GenAI and culminating it with Flutter 
 - 📫 Ping me on Discord: Ad Astra#3510
 
 - 📜 Update: Brushing Up Core Programming Concepts
