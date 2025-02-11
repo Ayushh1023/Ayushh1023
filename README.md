@@ -2,10 +2,10 @@
 
 - 👋 Hi, I’m @Ayushh1023
 - 👀 I’m interested in learning **everything** about how computers' majestic capabilities can be used to achieve the impossible endeavors of humankind  
-- 🌱 I’m currently exploring GenAI and culminating it with Flutter 
+- 🌱 Currently onto creating a 2D Game in Unity C#
 - 📫 Ping me on Discord: Ad Astra#3510
 
-- 📜 Update: Brushing Up Core Programming Concepts
+- 📜 Update: Hashing my life's to-do list for perfect load balance! 
 <!---
 Ayushh1023/Ayushh1023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
